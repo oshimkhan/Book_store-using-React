@@ -1,0 +1,33 @@
+.job-application-form {
+  max-width: 600px;
+  margin: 10px auto;
+  padding: 20px 40px;
+  border: 1px solid #ccc;
+ }
+ .section {
+  margin-bottom: 20px;
+ }
+ h1, h2 {
+  margin-bottom: 10px;
+ }
+ input[type="text"], input[type="email"], textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+ }
+ button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+ }
+ button:hover {
+  background-color: #0056b3;
+ }
+ button[type="button"] {
+  background-color: #28a745;
+ }
+ button[type="button"]:hover {
+  background-color: #218838;
+ }
